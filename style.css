@@ -1,0 +1,24 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+caption{
+    background-color: gray;
+    
+}
+
+body{
+    font-size: xx-large;
+}
+
+
+table {
+    border-collapse: collapse;
+}
+    
+td, th {
+    border:1px solid #ddd;
+    padding:8px;
+}
+
